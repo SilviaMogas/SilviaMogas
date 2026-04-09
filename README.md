@@ -35,15 +35,16 @@ But everything I do comes back to one thing: **building products that solve real
 
 | Year | Event | Result |
 |------|-------|--------|
-| 2019 | **Demium Startups** | 🥇 Individual Winner |
-| 2019 | **StartSud** | 🥇 Winner · Appointed CEO of We Are Decor |
-| 2020 | **EU Global Hackathon** *(COVID edition)* | Participant |
-| 2024 | **Polkadot Championship Hackathon** *(Digital Identity)* | 🥉 3rd Place |
-| 2024 | **ICP Hackathon · Bali** *(Ticketing Passport)* | Participant |
-| 2025 | **Lovable Hackathon** | Participant |
-| 2025 | **Permissionless IV Hackathon** | 💰 Prize Pool Winner |
-| 2025 | **Coinbase Developer Platform Hackathon · NYC** | 🥉 3rd Prize |
 | 2026 | **ETHGlobal Cannes** · Flow Broker | 🏆 **2× Bounty Winner** |
+| 2025 | **Coinbase Developer Platform Hackathon · NYC** | 🥉 3rd Prize |
+| 2025 | **Permissionless IV Hackathon** | 💰 Prize Pool Winner |
+| 2025 | **Lovable Hackathon** | Participant |
+| 2024 | **ICP Hackathon · Bali** *(Ticketing Passport)* | Participant |
+| 2024 | **Polkadot Championship Hackathon** *(Digital Identity)* | 🥉 3rd Place |
+| 2020 | **EU Global Hackathon** *(COVID edition)* | Participant |
+| 2019 | **StartSud** | 🥇 Winner · Appointed CEO of We Are Decor |
+| 2019 | **Demium Startups** | 🥇 Individual Winner |
+
 
 ### 🎯 ETHGlobal Cannes 2026 — 
 Built **Flow Broker** and won two bounties:
@@ -74,7 +75,7 @@ Focus areas:
 
 ```typescript
 const silvia = {
-  languages:    ["TypeScript", "JavaScript", "Solidity"],
+  languages:    ["TypeScript", "JavaScript",],
   ecosystems:   ["Ethereum", "Polkadot", "ICP", "Flow", "Base", "Chainlink"],
   building:     ["Digital Identity", "Trust Infrastructure", "Venture Studio"],
   superpower:   "Turning hackathon wins into real products",
