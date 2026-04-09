@@ -20,11 +20,12 @@
 
 **CEO & Founder · Hackathon builder · Web3 & Ventures**
 
-I build at the edge of **technology, identity, and trust infrastructure**.
-Founder of **BMBWeb3 Ventures** — a ventures hub backing and building projects at the intersection of Web3, digital identity, and real-world compliance.
+The question that drives me is simple: who do you trust, and why?
+I'm the founder of **BMBWeb3 Ventures** — we are building at the intersection of Web3, digital identity, and on-chain trust infrastructure. As CMO in capital markets, I operate at the convergence of institutional finance and the next generation of financial infrastructure — bringing credibility to the systems Web3 actually needs to scale.
+My work lives at the edge. Between compliance and innovation. Between what's technically possible today and what trust infrastructure will look like tomorrow.
+I speak strategy, product, marketing, and reputation — how individuals, protocols, and institutions earn trust in a world that's being rebuilt from scratch.
+But everything I do comes back to one thing: **building products that solve real needs.**
 
-Marketer turned builder. I speak strategy, product, and TypeScript.
-Curious by nature. Always learning.
 
 ---
 
