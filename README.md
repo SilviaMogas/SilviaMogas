@@ -12,6 +12,7 @@
 ### Building products, narratives, and trust layers across digital identity, on-chain systems, and emerging technology.
 
 Founder of **BMBWeb3 Ventures**  
+Founder of **Blockchain Marketing Boutique**  
 Founder of **Trust The Signal Media**  
 Building **Hey Lola**
 
