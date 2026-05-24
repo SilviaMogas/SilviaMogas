@@ -17,8 +17,7 @@ Building **Hey Lola**
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media) · [Hey Lola](https://heylola.co)
-
+[LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media) 
 </div>
 
 <br/>
@@ -199,15 +198,6 @@ Research and build interests:
 <img src="https://github-readme-stats.vercel.app/api?username=SilviaMogas&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=1A1A1A&bg_color=ffffff&count_private=true" alt="Silvia Mogas GitHub Stats" />
 
 </div>
-
----
-
-## 🌱 Currently building
-
-- **BMBWeb3 Ventures** — venture studio and Web3 strategy hub
-- **Trust The Signal Media** — media platform for Web3, RWAs, and on-chain capital markets
-- **Hey Lola** — consumer product for dog-friendly living and verified experiences
-- New experiments around **digital identity**, **attestations**, and **trust infrastructure**
 
 ---
 
