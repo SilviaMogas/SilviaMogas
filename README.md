@@ -1,6 +1,5 @@
 <br/>
 
-
 <!-- HEADER -->
 
 <div align="center">
@@ -19,6 +18,7 @@ Building **Hey Lola**
 <br/>
 
 [LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media) 
+
 </div>
 
 <br/>
@@ -95,14 +95,24 @@ Focus areas:
 - Market intelligence
 - Events, culture, and industry context
 
+---
+
+### Hey Lola
+
+**Hey Lola** is a social-impact product exploring how technology, storytelling, and Web3 can support shelter dogs, adoption visibility, and transparent donation flows.
+
+The project combines emotional storytelling with practical infrastructure for donations, sponsorships, community activations, and future pet identity records.
+
 Technical and product focus:
 
 - User profiles
 - Verified dog profiles
-- Venue discovery
+- Shelter and venue discovery
 - QR-based experiences
 - Community activation
 - Adoption visibility
+- Crypto donations
+- Sponsorship flows
 - Future records and passport-style flows
 
 ---
@@ -114,6 +124,7 @@ Technical and product focus:
 | Year | Event | Project / Focus | Result |
 |------|-------|-----------------|--------|
 | 2026 | **ETHGlobal Cannes** | Flow Broker | 🏆 2× Bounty Winner |
+| 2026 | **ETHGlobal NYC** | Hey Lola Foundation Web3 layer | 🏆 Bounty Winner |
 | 2025 | **Coinbase Developer Platform Hackathon · NYC** | Web3 product prototype | 🥉 3rd Prize |
 | 2025 | **Permissionless IV Hackathon** | Web3 infrastructure | 💰 Prize Pool Winner |
 | 2025 | **Lovable Hackathon** | AI-assisted product build | Participant |
@@ -136,6 +147,26 @@ The project explored workflow automation, decentralized infrastructure, and smar
 
 ---
 
+## 🎯 ETHGlobal NYC 2026
+
+At **ETHGlobal NYC 2026**, I built a new Web3 layer for **Hey Lola Foundation** as a solo hacker.
+
+The project focused on making crypto donations more accessible, transparent, and emotionally connected.
+
+It explored how blockchain tools can help people sponsor shelter dogs, support adoption visibility, and create more trusted donation flows.
+
+For this MVP, I used:
+
+- **Chainlink**
+- **Privy**
+- **Blink Cash**
+
+The prototype connected social impact with crypto-native donation and sponsorship flows.
+
+**Result:** Bounty Winner.
+
+---
+
 ## 💻 Technical Stack
 
 ```typescript
@@ -150,7 +181,9 @@ const silvia = {
     "ICP",
     "Flow",
     "Chainlink",
-    "Uniswap"
+    "Uniswap",
+    "Privy",
+    "Blink Cash"
   ],
   tools: [
     "Vercel",
@@ -167,7 +200,9 @@ const silvia = {
     "Trust infrastructure",
     "Consumer Web3",
     "RWA narratives",
-    "AI-assisted workflows"
+    "AI-assisted workflows",
+    "Crypto donation flows",
+    "Social-impact products"
   ],
   edge: "I connect product, market, narrative, and execution."
 }
@@ -185,6 +220,7 @@ Research and build interests:
   ├── Reputation systems
   ├── Web3 consumer onboarding
   ├── Wallet-based user journeys
+  ├── Crypto donation flows
   ├── RWA and institutional adoption
   ├── AI x Web3 workflows
   └── Trust as product infrastructure
@@ -211,6 +247,7 @@ I am open to:
 - Digital identity projects
 - RWA and capital markets infrastructure
 - Ecosystem partnerships
+- Social-impact Web3 use cases
 - Bounties and venture conversations
 
 📩 **silviam@bmbweb3.com**
