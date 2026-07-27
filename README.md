@@ -1,6 +1,3 @@
-Copia y pega todo este código en tu `README.md`:
-
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,55:171717,100:DC2626&text=SILVIA%20MOGAS&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Web3%20Builder%20%C2%B7%20Trust%20Infrastructure%20%C2%B7%20Product%20Operator&descSize=17&descAlignY=59&animation=fadeIn" alt="Silvia Mogas">
@@ -9,18 +6,10 @@ Copia y pega todo este código en tu `README.md`:
 
 <br>
 
-<a href="https://linkedin.com/in/silviamogas">
-  <img src="https://img.shields.io/badge/LINKEDIN-DC2626?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://bmbweb3.com">
-  <img src="https://img.shields.io/badge/BMBWEB3.COM-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bmbweb3.com">
-</a>
-<a href="https://trustthesignal.media">
-  <img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media">
-</a>
-<a href="mailto:hello@silviamogas.com?subject=Let%27s%20build%20together">
-  <img src="https://img.shields.io/badge/LET'S_TALK-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com">
-</a>
+<a href="https://linkedin.com/in/silviamogas"><img src="https://img.shields.io/badge/LINKEDIN-DC2626?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://bmbweb3.com"><img src="https://img.shields.io/badge/BMBWEB3.COM-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bmbweb3.com"></a>
+<a href="https://trustthesignal.media"><img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media"></a>
+<a href="mailto:hello@silviamogas.com?subject=Let%27s%20build%20together"><img src="https://img.shields.io/badge/LET'S_TALK-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com"></a>
 
 <br><br>
 
@@ -102,9 +91,7 @@ I care about the complete product: **the user, the market, the narrative, and th
 
 > **Cold-chain verification and reputation · ETHGlobal Lisbon 2026**
 
-A working hardware prototype connecting physical temperature data with on-chain infrastructure.
-
-ColdProof transformed temperature readings into verifiable shipment records and an accessible reputation indicator based on shipment conditions, incidents, data continuity, and historical performance.
+A working hardware prototype connecting physical temperature data with on-chain infrastructure. ColdProof transformed temperature readings into verifiable shipment records and an accessible reputation indicator.
 
 ![Hedera](https://img.shields.io/badge/HEDERA-0A0A0A?style=flat-square)
 ![ENS](https://img.shields.io/badge/ENS-404040?style=flat-square)
@@ -112,28 +99,22 @@ ColdProof transformed temperature readings into verifiable shipment records and 
 ![Sensors](https://img.shields.io/badge/PHYSICAL_SENSORS-737373?style=flat-square)
 ![Winner](https://img.shields.io/badge/BOUNTY_WINNER-DC2626?style=flat-square)
 
----
-
 ### 🐾 HeyLola Foundation — Web3 Layer
 
 > **Crypto sponsorship for shelter dogs · ETHGlobal NYC 2026**
 
 A solo-built MVP exploring how blockchain tools could make crypto donations more accessible, transparent, and emotionally connected.
 
-The project focused on shelter-dog sponsorship, adoption visibility, and trusted donation flows.
-
 ![Chainlink](https://img.shields.io/badge/CHAINLINK-0A0A0A?style=flat-square&logo=chainlink&logoColor=white)
 ![Privy](https://img.shields.io/badge/PRIVY-404040?style=flat-square)
 ![Blink Cash](https://img.shields.io/badge/BLINK_CASH-737373?style=flat-square)
 ![Winner](https://img.shields.io/badge/BOUNTY_WINNER-DC2626?style=flat-square)
 
----
-
 ### ⚡ Flow Broker
 
 > **On-chain workflow automation · ETHGlobal Cannes 2026**
 
-An on-chain workflow automation and execution prototype combining programmable workflows, decentralized infrastructure, and execution tools for complex financial operations.
+An on-chain workflow automation and execution prototype for more coordinated financial operations.
 
 ![Uniswap](https://img.shields.io/badge/UNISWAP_API-0A0A0A?style=flat-square&logo=uniswap&logoColor=white)
 ![Chainlink CRE](https://img.shields.io/badge/CHAINLINK_CRE-404040?style=flat-square&logo=chainlink&logoColor=white)
@@ -159,43 +140,15 @@ An on-chain workflow automation and execution prototype combining programmable w
 | **2019** | StartSud | Startup competition | 🥇 Winner · Appointed CEO |
 | **2019** | Demium Startups | Founder competition | 🥇 Individual Winner |
 
-<details>
-<summary><strong>＋ Open my complete research radar</strong></summary>
-
-<br>
-
-- DID / decentralized identity
-- Verifiable credentials
-- Attestations
-- Reputation systems
-- Web3 consumer onboarding
-- Wallet-based user journeys
-- Crypto donation flows
-- RWA and institutional adoption
-- AI × Web3 workflows
-- Trust as product infrastructure
-
-</details>
-
 ---
 
 ## 🤝 Let's build
 
-I'm open to:
-
-- Hackathon collaborations
-- Web3 product experiments
-- Digital identity projects
-- RWA and capital markets infrastructure
-- Ecosystem partnerships
-- Social-impact Web3 use cases
-- Bounties and venture conversations
+Hackathon collaborations · Web3 product experiments · Digital identity projects · RWA and capital markets infrastructure · Ecosystem partnerships · Social-impact Web3 use cases · Bounties · Venture conversations
 
 <div align="center">
 
-<a href="mailto:hello@silviamogas.com?subject=Let%27s%20build%20together">
-  <img src="https://img.shields.io/badge/HAVE_AN_IDEA%3F_LET'S_BUILD-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com">
-</a>
+<a href="mailto:hello@silviamogas.com?subject=Let%27s%20build%20together"><img src="https://img.shields.io/badge/HAVE_AN_IDEA%3F_LET'S_BUILD-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com"></a>
 
 <br><br>
 
@@ -204,4 +157,3 @@ I'm open to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,55:171717,100:DC2626" alt="Footer">
 
 </div>
-````
