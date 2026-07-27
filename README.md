@@ -11,12 +11,16 @@
 <a href="https://trustthesignal.media"><img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media"></a>
 <a href="mailto:hello@silviamogas.com?subject=Let%27s%20build%20together"><img src="https://img.shields.io/badge/LET'S_TALK-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com"></a>
 
+
+
 <br><br>
 
 ### Building products, narratives, and trust layers across
 ### digital identity, on-chain systems, and emerging technology.
 
 </div>
+
+
 
 ---
 
@@ -28,6 +32,8 @@
 ![Web3 Builder](https://img.shields.io/badge/WEB3_BUILDER-0A0A0A?style=for-the-badge)
 ![Product Operator](https://img.shields.io/badge/PRODUCT_OPERATOR-404040?style=for-the-badge)
 ![Hackathon Winner](https://img.shields.io/badge/HACKATHON_WINNER-DC2626?style=for-the-badge)
+
+
 
 </div>
 
@@ -44,11 +50,15 @@ I build products and prototypes across **Web3, digital identity, trust infrastru
 
 I care about the complete product: **the user, the market, the narrative, and the infrastructure behind it**.
 
+
+
 <div align="center">
 
 ### How do we make trust programmable, usable, and understandable?
 
 </div>
+
+
 
 ---
 
