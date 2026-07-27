@@ -56,63 +56,6 @@ Current focus:
   ├── Consumer Web3 experiences
   ├── AI-assisted product workflows
   └── Venture studio prototypes
-```
-
----
-
-## 🏗️ Projects
-
-### BMBWeb3 Ventures
-
-**BMBWeb3 Ventures** is my venture-building hub for Web3 products, trust infrastructure, and strategic go-to-market experiments.
-
-I use it to build, test, and support projects around:
-
-- Web3 infrastructure
-- Digital identity
-- Trust and reputation layers
-- Compliance-aware products
-- Founder-led growth
-- Technical storytelling for complex products
-
----
-
-### Trust The Signal Media
-
-**Trust The Signal** is a media platform for Web3, digital assets, capital markets, and on-chain finance.
-
-It is built around one idea:
-
-> **Filtering signal from noise.**
-
-Focus areas:
-
-- RWA and tokenization
-- On-chain capital markets
-- Web3 infrastructure
-- Founder narratives
-- Market intelligence
-- Events, culture, and industry context
-
----
-
-### Hey Lola
-
-**Hey Lola** is a social-impact product exploring how technology, storytelling, and Web3 can support shelter dogs, adoption visibility, and transparent donation flows.
-
-The project combines emotional storytelling with practical infrastructure for donations, sponsorships, community activations, and future pet identity records.
-
-Technical and product focus:
-
-- User profiles
-- Verified dog profiles
-- Shelter and venue discovery
-- QR-based experiences
-- Community activation
-- Adoption visibility
-- Crypto donations
-- Sponsorship flows
-- Future records and passport-style flows
 
 ---
 
@@ -122,8 +65,9 @@ Technical and product focus:
 
 | Year | Event | Project / Focus | Result |
 |------|-------|-----------------|--------|
-| 2026 | **ETHGlobal Cannes** | Flow Broker | 🏆 2× Bounty Winner |
+| 2026 | **ETHGlobal Lisbon** | ColdProof | 🏆 Bounty Winner |
 | 2026 | **ETHGlobal NYC** | Hey Lola Foundation Web3 layer | 🏆 Bounty Winner |
+| 2026 | **ETHGlobal Cannes** | Flow Broker | 🏆 2× Bounty Winner |
 | 2025 | **Coinbase Developer Platform Hackathon · NYC** | Web3 product prototype | 🥉 3rd Prize |
 | 2025 | **Permissionless IV Hackathon** | Web3 infrastructure | 💰 Prize Pool Winner |
 | 2025 | **Lovable Hackathon** | AI-assisted product build | Participant |
@@ -132,17 +76,6 @@ Technical and product focus:
 | 2020 | **EU Global Hackathon** | COVID edition | Participant |
 | 2019 | **StartSud** | Startup competition | 🥇 Winner · Appointed CEO |
 | 2019 | **Demium Startups** | Founder competition | 🥇 Individual Winner |
-
----
-
-## 🎯 ETHGlobal Cannes 2026
-
-At **ETHGlobal Cannes 2026**, I built **Flow Broker** and won two bounties:
-
-- **Best Uniswap API Integration**
-- **Best Workflow with Chainlink CRE**
-
-The project explored workflow automation, decentralized infrastructure, and smarter execution flows using on-chain tools.
 
 ---
 
@@ -166,46 +99,14 @@ The prototype connected social impact with crypto-native donation and sponsorshi
 
 ---
 
-## 💻 Technical Stack
+## 🎯 ETHGlobal Cannes 2026
 
-```typescript
-const silvia = {
-  languages: ["TypeScript", "JavaScript"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Supabase", "Firebase"],
-  web3: [
-    "Ethereum",
-    "Base",
-    "Polkadot",
-    "ICP",
-    "Flow",
-    "Chainlink",
-    "Uniswap",
-    "Privy",
-    "Blink Cash"
-  ],
-  tools: [
-    "Vercel",
-    "GitHub",
-    "Claude",
-    "Lovable",
-    "Cursor",
-    "Figma",
-    "Airtable",
-    "Notion"
-  ],
-  building: [
-    "Digital identity",
-    "Trust infrastructure",
-    "Consumer Web3",
-    "RWA narratives",
-    "AI-assisted workflows",
-    "Crypto donation flows",
-    "Social-impact products"
-  ],
-  edge: "I connect product, market, narrative, and execution."
-}
-```
+At **ETHGlobal Cannes 2026**, I built **Flow Broker** and won two bounties:
+
+- **Best Uniswap API Integration**
+- **Best Workflow with Chainlink CRE**
+
+The project explored workflow automation, decentralized infrastructure, and smarter execution flows using on-chain tools.
 
 ---
 
