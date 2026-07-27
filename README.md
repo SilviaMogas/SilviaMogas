@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=900&lines=Silvia+Mogas;Web3+Builder+%C2%B7+Trust+Infrastructure+%C2%B7+Product+Operator;Founder+%C2%B7+Hackathon+Winner+%C2%B7+Venture+Builder" alt="Typing SVG" />
+# Silvia Mogas
+
+### Web3 Builder · Trust Infrastructure · Product Operator
 
 <br/>
 
@@ -25,6 +27,24 @@ Building **HeyLola**
 ---
 
 <br/>
+
+
+### Building products, narratives, and trust layers across digital identity, on-chain systems, and emerging technology.
+
+Founder of **Blockchain Marketing Boutique and BMBWeb3 Ventures**
+Founder of **Trust The Signal Media**
+Building **HeyLola**
+
+<br/>
+
+[LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media)
+
+</div>
+
+<br/>
+
+---
+
 
 ## 🧭 About me
 
