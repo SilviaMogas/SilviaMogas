@@ -1,120 +1,127 @@
-Copia todo este código y pégalo en tu archivo `README.md`:
-
-````md
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20,24&text=Silvia%20Mogas&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Web3%20Builder%20%C2%B7%20Trust%20Infrastructure%20%C2%B7%20Product%20Operator&descAlignY=60&descSize=18&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:DB2777,100:F59E0B&text=SILVIA%20MOGAS&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Web3%20Builder%20%C2%B7%20Trust%20Infrastructure%20%C2%B7%20Product%20Operator&descSize=17&descAlignY=59&animation=fadeIn" alt="Silvia Mogas">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Founder+%C2%B7+Hackathon+Winner+%C2%B7+Venture+Builder;Building+products%2C+narratives%2C+and+trust+layers;Making+trust+programmable+and+usable" alt="Animated introduction" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Founder+%C2%B7+Web3+Builder+%C2%B7+Hackathon+Winner;Building+trust+layers+for+the+real+world;Digital+Identity+%C2%B7+On-chain+Systems+%C2%B7+RWA;Turning+ambitious+ideas+into+working+products" alt="Animated typing introduction">
+</a>
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvia_Mogas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/silviamogas)
-[![BMBWeb3](https://img.shields.io/badge/GitHub-BMBWeb3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BMBWeb3)
-[![Trust The Signal](https://img.shields.io/badge/Trust_The_Signal-Media-7C3AED?style=for-the-badge)](https://trustthesignal.media)
-[![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviam@bmbweb3.com)
+<a href="https://linkedin.com/in/silviamogas">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/BMBWeb3">
+  <img src="https://img.shields.io/badge/BMBWEB3-181717?style=for-the-badge&logo=github&logoColor=white" alt="BMBWeb3">
+</a>
+<a href="https://trustthesignal.media">
+  <img src="https://img.shields.io/badge/TRUST_THE_SIGNAL-7C3AED?style=for-the-badge&logo=rss&logoColor=white" alt="Trust The Signal">
+</a>
+<a href="mailto:hello@silviamogas.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+### Building products, narratives, and trust layers across
+### digital identity, on-chain systems, and emerging technology.
 
 </div>
 
-<br>
+---
 
-## `01` — The signal
+## ⚡ About me
 
-> ### How do we make trust programmable, usable, and understandable?
+```yaml
+name: Silvia Mogas
+
+roles:
+  - Founder
+  - Web3 Builder
+  - Product Operator
+  - Hackathon Winner
+
+building:
+  - Blockchain Marketing Boutique
+  - BMBWeb3 Ventures
+  - Trust The Signal Media
+  - HeyLola
+
+experience: 20+ years across marketing, partnerships, product,
+            growth, events, and venture building
+```
 
 I build products and prototypes across **Web3, digital identity, trust infrastructure, consumer adoption, and real-world use cases**.
 
-My work combines more than 20 years of experience across **marketing, partnerships, product, growth, events, and venture building**. I care about the user, the market, the narrative, and the infrastructure behind every product.
-
-```text
-FOUNDER  →  Blockchain Marketing Boutique + BMBWeb3 Ventures
-MEDIA    →  Trust The Signal
-BUILDING →  HeyLola
-METHOD   →  Hackathons + technical sprints + working prototypes
-```
-
-<br>
-
-## `02` — Current build map
+I care about the complete product: **the user, the market, the narrative, and the infrastructure behind it**.
 
 <div align="center">
 
-| IDENTITY | TRUST | MARKETS |
-|:---:|:---:|:---:|
-| Decentralized identity | Attestations | RWA use cases |
-| Verifiable credentials | Reputation systems | Capital markets |
-| Wallet-based journeys | On-chain verification | Workflow automation |
-
-| ADOPTION | EMERGING TECH |
-|:---:|:---:|
-| Consumer Web3 | AI-assisted workflows |
-| Crypto donation flows | Venture studio prototypes |
+### How do we make trust programmable, usable, and understandable?
 
 </div>
 
-<br>
+---
 
-## `03` — Selected builds
+## 🧭 Build radar
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 🪪 IDENTITY | 🔐 TRUST | 🏦 MARKETS |
+|:---|:---|:---|
+| Decentralized identity | Attestations | RWA use cases |
+| Verifiable credentials | Reputation systems | Capital markets |
+| Wallet-based journeys | On-chain trust layers | Workflow automation |
+
+| ✨ ADOPTION | 🤖 EMERGING TECH |
+|:---|:---|
+| Consumer Web3 experiences | AI-assisted product workflows |
+| Crypto donation flows | Venture studio prototypes |
+
+---
+
+## 🚀 Featured builds
 
 ### 🌡️ ColdProof
 
-**ETHGlobal Lisbon · 2026**
+> **Cold-chain verification and reputation · ETHGlobal Lisbon 2026**
 
-Cold-chain verification and reputation system connecting physical temperature data with on-chain infrastructure.
+A working hardware prototype connecting physical temperature data with on-chain infrastructure. It transformed sensor readings into verifiable shipment records and an accessible transporter reputation indicator: the **ColdProof Score**.
 
-The prototype transformed sensor readings into verifiable shipment records and a **ColdProof Score** based on shipment conditions, incidents, data continuity, and historical performance.
+![Hedera](https://img.shields.io/badge/Hedera-222222?style=flat-square)
+![ENS](https://img.shields.io/badge/ENS-5298FF?style=flat-square)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square)
+![Sensors](https://img.shields.io/badge/Physical_Sensors-F59E0B?style=flat-square)
+![Result](https://img.shields.io/badge/RESULT-BOUNTY_WINNER-16A34A?style=flat-square)
 
-`Hedera` `ENS` `The Graph`  
-`Temperature sensors` `Reputation scoring`
+---
 
-### 🏆 Bounty Winner
+### 🐾 HeyLola Foundation — Web3 Layer
 
-</td>
-<td width="50%" valign="top">
+> **Crypto sponsorship for shelter dogs · ETHGlobal NYC 2026**
 
-### 🐾 HeyLola Web3 Layer
+A solo-built MVP exploring how blockchain tools could make crypto donations more accessible, transparent, and emotionally connected—while increasing adoption visibility and enabling trusted sponsorship flows.
 
-**ETHGlobal NYC · 2026**
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+![Privy](https://img.shields.io/badge/Privy-222222?style=flat-square)
+![Blink Cash](https://img.shields.io/badge/Blink_Cash-F59E0B?style=flat-square)
+![Result](https://img.shields.io/badge/RESULT-BOUNTY_WINNER-16A34A?style=flat-square)
 
-A solo-built Web3 layer for **HeyLola Foundation**, focused on making crypto donations more accessible, transparent, and emotionally connected.
-
-The MVP explored shelter-dog sponsorship, adoption visibility, and trusted donation flows.
-
-`Chainlink` `Privy` `Blink Cash`
-
-### 🏆 Bounty Winner
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top">
+---
 
 ### ⚡ Flow Broker
 
-**ETHGlobal Cannes · 2026**
+> **On-chain workflow automation · ETHGlobal Cannes 2026**
 
-An on-chain workflow automation and execution prototype combining decentralized infrastructure, programmable workflows, and on-chain execution for complex financial operations.
+An on-chain workflow automation and execution prototype combining programmable workflows, decentralized infrastructure, and execution tools for more coordinated financial operations.
 
-`Uniswap API` `Chainlink CRE`
-
-### 🏆 2× Bounty Winner
+![Uniswap](https://img.shields.io/badge/Uniswap_API-FF007A?style=flat-square&logo=uniswap&logoColor=white)
+![Chainlink CRE](https://img.shields.io/badge/Chainlink_CRE-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+![Result](https://img.shields.io/badge/RESULT-2×_BOUNTY_WINNER-16A34A?style=flat-square)
 
 **Best Uniswap API Integration** · **Best Workflow with Chainlink CRE**
 
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-## `04` — Builder timeline
+## 🏆 Hackathon timeline
 
 | Year | Event | Project / focus | Result |
 |:---:|---|---|---|
@@ -131,7 +138,7 @@ An on-chain workflow automation and execution prototype combining decentralized 
 | **2019** | Demium Startups | Founder competition | 🥇 Individual Winner |
 
 <details>
-<summary><strong>Open the complete research and build radar</strong></summary>
+<summary><strong>🔎 Open my complete research radar</strong></summary>
 
 <br>
 
@@ -148,44 +155,46 @@ An on-chain workflow automation and execution prototype combining decentralized 
 
 </details>
 
-<br>
+---
 
-## `05` — GitHub pulse
+## 📊 GitHub pulse
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SilviaMogas&show_icons=true&hide_border=true&rank_icon=github&title_color=8B5CF6&icon_color=F59E0B&text_color=64748B&bg_color=00000000" alt="Silvia Mogas GitHub statistics">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilviaMogas&show_icons=true&hide_border=true&rank_icon=github&title_color=8B5CF6&icon_color=DB2777&text_color=64748B&bg_color=00000000" alt="GitHub statistics">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilviaMogas&hide_border=true&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=64748B&dates=94A3B8&background=00000000" alt="Silvia Mogas contribution streak">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SilviaMogas&hide_border=true&ring=8B5CF6&fire=DB2777&currStreakLabel=8B5CF6&sideLabels=64748B&dates=94A3B8&background=00000000" alt="GitHub contribution streak">
 
 <br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SilviaMogas&bg_color=transparent&color=8B5CF6&line=8B5CF6&point=F59E0B&area=true&area_color=C4B5FD&hide_border=true" alt="Silvia Mogas contribution graph">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SilviaMogas&bg_color=transparent&color=8B5CF6&line=DB2777&point=F59E0B&area=true&area_color=C4B5FD&hide_border=true&custom_title=Contribution%20Journey" alt="GitHub contribution graph">
 
 </div>
 
-<br>
+---
 
-## `06` — Open to building
+## 🤝 Let's build
 
-```text
-✦ Hackathon collaborations           ✦ Web3 product experiments
-✦ Digital identity projects          ✦ RWA and capital markets infrastructure
-✦ Ecosystem partnerships             ✦ Social-impact Web3 use cases
-✦ Bounties                           ✦ Venture conversations
-```
+I'm open to:
+
+- Hackathon collaborations
+- Web3 product experiments
+- Digital identity projects
+- RWA and capital markets infrastructure
+- Ecosystem partnerships
+- Social-impact Web3 use cases
+- Bounties and venture conversations
 
 <div align="center">
 
-### Have a difficult idea worth building?
-
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello@silviamogas.com)
+<a href="mailto:hello@silviamogas.com">
+  <img src="https://img.shields.io/badge/HAVE_AN_IDEA%3F_LET'S_BUILD-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Start a conversation">
+</a>
 
 <br><br>
 
-### “Trust is not a feature. It is infrastructure.”
+## Trust is not a feature. It is infrastructure.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:DB2777,100:F59E0B" alt="Footer">
 
 </div>
-````
