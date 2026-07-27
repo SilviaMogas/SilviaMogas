@@ -1,222 +1,191 @@
-<br/>
+Copia todo este código y pégalo en tu archivo `README.md`:
 
-<!-- HEADER -->
-
+````md
 <div align="center">
 
-# Silvia Mogas
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20,24&text=Silvia%20Mogas&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Web3%20Builder%20%C2%B7%20Trust%20Infrastructure%20%C2%B7%20Product%20Operator&descAlignY=60&descSize=18&animation=fadeIn)
 
-### Web3 Builder · Trust Infrastructure · Product Operator
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Founder+%C2%B7+Hackathon+Winner+%C2%B7+Venture+Builder;Building+products%2C+narratives%2C+and+trust+layers;Making+trust+programmable+and+usable" alt="Animated introduction" />
 
-<br/>
+<br>
 
-### Building products, narratives, and trust layers across digital identity, on-chain systems, and emerging technology.
-
-Founder of **Blockchain Marketing Boutique and BMBWeb3 Ventures**
-Founder of **Trust The Signal Media**
-Building **HeyLola**
-
-<br/>
-
-[LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvia_Mogas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/silviamogas)
+[![BMBWeb3](https://img.shields.io/badge/GitHub-BMBWeb3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BMBWeb3)
+[![Trust The Signal](https://img.shields.io/badge/Trust_The_Signal-Media-7C3AED?style=for-the-badge)](https://trustthesignal.media)
+[![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviam@bmbweb3.com)
 
 </div>
 
-<br/>
+<br>
 
----
+## `01` — The signal
 
-<br/>
-
-
-### Building products, narratives, and trust layers across digital identity, on-chain systems, and emerging technology.
-
-Founder of **Blockchain Marketing Boutique and BMBWeb3 Ventures**
-Founder of **Trust The Signal Media**
-Building **HeyLola**
-
-<br/>
-
-[LinkedIn](https://linkedin.com/in/silviamogas) · [BMBWeb3](https://github.com/BMBWeb3) · [Trust The Signal](https://trustthesignal.media)
-
-</div>
-
-<br/>
-
----
-
-
-## 🧭 About me
-
-**Founder · Web3 Builder · Product Operator · Hackathon Winner**
+> ### How do we make trust programmable, usable, and understandable?
 
 I build products and prototypes across **Web3, digital identity, trust infrastructure, consumer adoption, and real-world use cases**.
 
-My background is both strategic and product-driven. I bring more than 20 years of experience across **marketing, partnerships, product, growth, events, and venture building**.
-
-This gives me a practical perspective when I build. I care about the user, the market, the narrative, and the infrastructure behind the product.
-
-In Web3, I focus on one core question:
-
-> **How do we make trust programmable, usable, and understandable?**
-
-I use hackathons and technical sprints to test ideas quickly, validate use cases, and move from concept to working product.
-
----
-
-## 🛠️ What I build
+My work combines more than 20 years of experience across **marketing, partnerships, product, growth, events, and venture building**. I care about the user, the market, the narrative, and the infrastructure behind every product.
 
 ```text
-Current focus:
-  ├── Digital identity
-  ├── Attestations
-  ├── Verifiable credentials
-  ├── On-chain trust layers
-  ├── RWA and capital markets use cases
-  ├── Consumer Web3 experiences
-  ├── AI-assisted product workflows
-  └── Venture studio prototypes
+FOUNDER  →  Blockchain Marketing Boutique + BMBWeb3 Ventures
+MEDIA    →  Trust The Signal
+BUILDING →  HeyLola
+METHOD   →  Hackathons + technical sprints + working prototypes
 ```
 
----
+<br>
 
-## 🏆 Hackathon Track Record
-
-> Hackathons are where I test ideas, build fast, collaborate, and turn abstract concepts into working prototypes.
-
-| Year | Event                                           | Project / Focus               | Result                    |
-| ---- | ----------------------------------------------- | ----------------------------- | ------------------------- |
-| 2026 | **ETHGlobal Lisbon**                            | ColdProof                     | 🏆 Bounty Winner          |
-| 2026 | **ETHGlobal NYC**                               | HeyLola Foundation Web3 layer | 🏆 Bounty Winner          |
-| 2026 | **ETHGlobal Cannes**                            | Flow Broker                   | 🏆 2× Bounty Winner       |
-| 2025 | **Coinbase Developer Platform Hackathon · NYC** | Web3 product prototype        | 🥉 3rd Prize              |
-| 2025 | **Permissionless IV Hackathon**                 | Web3 infrastructure           | 💰 Prize Pool Winner      |
-| 2025 | **Lovable Hackathon**                           | AI-assisted product build     | Participant               |
-| 2024 | **ICP Hackathon · Bali**                        | Ticketing Passport            | Participant               |
-| 2024 | **Polkadot Championship Hackathon**             | Digital Identity              | 🥉 3rd Place              |
-| 2020 | **EU Global Hackathon**                         | COVID edition                 | Participant               |
-| 2019 | **StartSud**                                    | Startup competition           | 🥇 Winner · Appointed CEO |
-| 2019 | **Demium Startups**                             | Founder competition           | 🥇 Individual Winner      |
-
----
-
-## 🎯 ETHGlobal Lisbon 2026
-
-At **ETHGlobal Lisbon 2026**, we built **ColdProof**, a cold-chain verification and reputation system connecting physical sensor data with on-chain infrastructure.
-
-We developed a working hardware prototype that captured temperature data and transformed it into verifiable shipment records.
-
-The project explored how blockchain infrastructure could improve transparency, accountability, and trust across temperature-sensitive supply chains.
-
-We used:
-
-* **Hedera** to register and verify cold-chain events
-* **ENS** to create portable identities for transporters
-* **The Graph** to index and query compatible on-chain data
-* **Physical temperature sensors** to capture real-world information
-* **A reputation scoring engine** to calculate the ColdProof Score
-
-The **ColdProof Score** converts shipment conditions, temperature incidents, data continuity, and historical performance into an accessible reputation indicator.
-
-The prototype connected physical infrastructure with on-chain verification and transporter reputation.
-
-<br/>
-
-**Result:** 🏆 Bounty Winner
-
----
-
-## 🎯 ETHGlobal NYC 2026
-
-At **ETHGlobal NYC 2026**, I built a new Web3 layer for **HeyLola Foundation** as a solo hacker.
-
-The project focused on making crypto donations more accessible, transparent, and emotionally connected.
-
-I explored how blockchain tools could help people sponsor shelter dogs, increase adoption visibility, and create more trusted donation flows.
-
-For this MVP, I used:
-
-* **Chainlink**
-* **Privy**
-* **Blink Cash**
-
-The prototype connected social impact with crypto-native donation and sponsorship flows.
-
-<br/>
-
-**Result:** 🏆 Bounty Winner
-
----
-
-## 🎯 ETHGlobal Cannes 2026
-
-At **ETHGlobal Cannes 2026**, we built **Flow Broker**, an on-chain workflow automation and execution prototype.
-
-We explored how decentralized infrastructure and programmable workflows could make complex financial operations more coordinated, accessible, and efficient.
-
-The project combined automation, blockchain infrastructure, and on-chain execution tools to create smarter transaction flows.
-
-<br/>
-
-We won two bounties:
-
-* **Best Uniswap API Integration**
-* **Best Workflow with Chainlink CRE**
-
-<br/>
-
-**Result:** 🏆 2× Bounty Winner
-
----
-
-## 🔐 Areas I am exploring
-
-```text
-Research and build interests:
-  ├── DID / decentralized identity
-  ├── Verifiable credentials
-  ├── Attestations
-  ├── Reputation systems
-  ├── Web3 consumer onboarding
-  ├── Wallet-based user journeys
-  ├── Crypto donation flows
-  ├── RWA and institutional adoption
-  ├── AI x Web3 workflows
-  └── Trust as product infrastructure
-```
-
----
-
-## 📊 GitHub Stats
+## `02` — Current build map
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SilviaMogas&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=1A1A1A&bg_color=ffffff&count_private=true" alt="Silvia Mogas GitHub Stats" />
+| IDENTITY | TRUST | MARKETS |
+|:---:|:---:|:---:|
+| Decentralized identity | Attestations | RWA use cases |
+| Verifiable credentials | Reputation systems | Capital markets |
+| Wallet-based journeys | On-chain verification | Workflow automation |
+
+| ADOPTION | EMERGING TECH |
+|:---:|:---:|
+| Consumer Web3 | AI-assisted workflows |
+| Crypto donation flows | Venture studio prototypes |
 
 </div>
 
----
+<br>
 
-## 🤝 Let’s build
+## `03` — Selected builds
 
-I am open to:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Hackathon collaborations
-* Web3 product experiments
-* Digital identity projects
-* RWA and capital markets infrastructure
-* Ecosystem partnerships
-* Social-impact Web3 use cases
-* Bounties and venture conversations
+### 🌡️ ColdProof
 
-📩 **[silviam@bmbweb3.com](mailto:silviam@bmbweb3.com)**
+**ETHGlobal Lisbon · 2026**
 
-<br/>
+Cold-chain verification and reputation system connecting physical temperature data with on-chain infrastructure.
 
----
+The prototype transformed sensor readings into verifiable shipment records and a **ColdProof Score** based on shipment conditions, incidents, data continuity, and historical performance.
+
+`Hedera` `ENS` `The Graph`  
+`Temperature sensors` `Reputation scoring`
+
+### 🏆 Bounty Winner
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 HeyLola Web3 Layer
+
+**ETHGlobal NYC · 2026**
+
+A solo-built Web3 layer for **HeyLola Foundation**, focused on making crypto donations more accessible, transparent, and emotionally connected.
+
+The MVP explored shelter-dog sponsorship, adoption visibility, and trusted donation flows.
+
+`Chainlink` `Privy` `Blink Cash`
+
+### 🏆 Bounty Winner
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+### ⚡ Flow Broker
+
+**ETHGlobal Cannes · 2026**
+
+An on-chain workflow automation and execution prototype combining decentralized infrastructure, programmable workflows, and on-chain execution for complex financial operations.
+
+`Uniswap API` `Chainlink CRE`
+
+### 🏆 2× Bounty Winner
+
+**Best Uniswap API Integration** · **Best Workflow with Chainlink CRE**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `04` — Builder timeline
+
+| Year | Event | Project / focus | Result |
+|:---:|---|---|---|
+| **2026** | ETHGlobal Lisbon | ColdProof | 🏆 Bounty Winner |
+| **2026** | ETHGlobal NYC | HeyLola Foundation Web3 layer | 🏆 Bounty Winner |
+| **2026** | ETHGlobal Cannes | Flow Broker | 🏆 2× Bounty Winner |
+| **2025** | Coinbase Developer Platform Hackathon · NYC | Web3 product prototype | 🥉 3rd Prize |
+| **2025** | Permissionless IV Hackathon | Web3 infrastructure | 💰 Prize Pool Winner |
+| **2025** | Lovable Hackathon | AI-assisted product build | Participant |
+| **2024** | ICP Hackathon · Bali | Ticketing Passport | Participant |
+| **2024** | Polkadot Championship Hackathon | Digital Identity | 🥉 3rd Place |
+| **2020** | EU Global Hackathon | COVID edition | Participant |
+| **2019** | StartSud | Startup competition | 🥇 Winner · Appointed CEO |
+| **2019** | Demium Startups | Founder competition | 🥇 Individual Winner |
+
+<details>
+<summary><strong>Open the complete research and build radar</strong></summary>
+
+<br>
+
+- DID / decentralized identity
+- Verifiable credentials
+- Attestations
+- Reputation systems
+- Web3 consumer onboarding
+- Wallet-based user journeys
+- Crypto donation flows
+- RWA and institutional adoption
+- AI × Web3 workflows
+- Trust as product infrastructure
+
+</details>
+
+<br>
+
+## `05` — GitHub pulse
 
 <div align="center">
 
-<strong>Trust is not a feature. It is infrastructure.</strong>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SilviaMogas&show_icons=true&hide_border=true&rank_icon=github&title_color=8B5CF6&icon_color=F59E0B&text_color=64748B&bg_color=00000000" alt="Silvia Mogas GitHub statistics">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilviaMogas&hide_border=true&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=64748B&dates=94A3B8&background=00000000" alt="Silvia Mogas contribution streak">
+
+<br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SilviaMogas&bg_color=transparent&color=8B5CF6&line=8B5CF6&point=F59E0B&area=true&area_color=C4B5FD&hide_border=true" alt="Silvia Mogas contribution graph">
 
 </div>
+
+<br>
+
+## `06` — Open to building
+
+```text
+✦ Hackathon collaborations           ✦ Web3 product experiments
+✦ Digital identity projects          ✦ RWA and capital markets infrastructure
+✦ Ecosystem partnerships             ✦ Social-impact Web3 use cases
+✦ Bounties                           ✦ Venture conversations
+```
+
+<div align="center">
+
+### Have a difficult idea worth building?
+
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello@silviamogas.com)
+
+<br><br>
+
+### “Trust is not a feature. It is infrastructure.”
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24)
+
+</div>
+````
