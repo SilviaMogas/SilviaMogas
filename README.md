@@ -100,6 +100,14 @@ Current focus:
 
 ## 🎯 HeatSafe Voice Copilot · Dubai 2026
 
+<div align="center">
+
+<img src="assets/heatsafe-logo.svg" width="440" alt="HeatSafe Voice Copilot">
+
+</div>
+
+<br/>
+
 In **Dubai**, we built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
 
 The worker simply speaks to the agent while continuing the task, accessing live weather conditions, relevant safety information, and trusted guidance without having to stop, remove gloves, or search through a phone.
