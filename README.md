@@ -256,32 +256,6 @@ I am open to:
 
 ---
 
-## 🤖 AI Tools
-
-> Tools I use and recommend for building, creating, and shipping faster.
-
-<details open>
-<summary><strong>🎬 Video Generation or Editing</strong></summary>
-
-<br/>
-
-**[FlexClip](https://www.flexclip.com)** — an easy-to-use online video editing platform that helps users create professional-quality videos with AI-powered tools, templates, and creative resources.
-
-* Creating personal videos for social media, YouTube, and online sharing
-* Transforming text, images, and ideas into engaging videos with AI tools
-* Editing videos with templates, subtitles, music, transitions, and effects without advanced skills
-* Transforming long videos into short clips for social media sharing
-
-<a href="https://www.flexclip.com">
-  <img src="https://img.shields.io/badge/ACCESS_THE_TOOL-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Access FlexClip">
-</a>
-
-</details>
-
-<br/>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:050505,50:737373,100:E5E5E5" alt="">
