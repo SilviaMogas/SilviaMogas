@@ -83,7 +83,7 @@ Current focus:
 
 | Year | Event                                           | Project / Focus               | Result                    |
 | ---- | ----------------------------------------------- | ----------------------------- | ------------------------- |
-| 2026 | **Hackathon · Dubai**                           | HeatSafe Voice Copilot        | 🎉 Finalist               |
+| 2026 | **AI Hackathon · Dubai**                        | HeatSafe Voice Copilot        | 🎉 Finalist               |
 | 2026 | **ETHGlobal Lisbon**                            | ColdProof                     | 🏆 Bounty Winner          |
 | 2026 | **ETHGlobal NYC**                               | HeyLola Foundation Web3 layer | 🏆 Bounty Winner          |
 | 2026 | **ETHGlobal Cannes**                            | Flow Broker                   | 🏆 2× Bounty Winner       |
@@ -108,7 +108,7 @@ Current focus:
 
 <br/>
 
-In **Dubai**, we built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
+At an **AI hackathon in Dubai**, we built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
 
 The worker simply speaks to the agent while continuing the task, accessing live weather conditions, relevant safety information, and trusted guidance without having to stop, remove gloves, or search through a phone.
 
