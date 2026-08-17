@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180" role="img" aria-label="HeatSafe Voice Copilot logo">
+  <title>HeatSafe Voice Copilot</title>
+
+  <defs>
+    <linearGradient id="heat" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF5F1F"/>
+      <stop offset="55%" stop-color="#FF8A1F"/>
+      <stop offset="100%" stop-color="#FFC24B"/>
+    </linearGradient>
+    <linearGradient id="heatSoft" gradientUnits="userSpaceOnUse" x1="90" y1="132" x2="90" y2="48">
+      <stop offset="0%" stop-color="#FF5F1F"/>
+      <stop offset="100%" stop-color="#FFC24B"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .fg      { fill: #171717; }
+    .fg-mute { fill: #525252; }
+    @media (prefers-color-scheme: dark) {
+      .fg      { fill: #F5F5F5; }
+      .fg-mute { fill: #A3A3A3; }
+    }
+    .wordmark { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+
+  <!-- shield -->
+  <path d="M90 30 L140 49 V97 C140 126 117 145 90 154 C63 145 40 126 40 97 V49 Z"
+        fill="none" stroke="url(#heat)" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- sun: heat -->
+  <circle cx="90" cy="76" r="12" fill="url(#heatSoft)"/>
+  <g stroke="url(#heatSoft)" stroke-width="4" stroke-linecap="round">
+    <line x1="73" y1="76" x2="66" y2="76"/>
+    <line x1="78" y1="64" x2="73" y2="59"/>
+    <line x1="90" y1="59" x2="90" y2="52"/>
+    <line x1="102" y1="64" x2="107" y2="59"/>
+    <line x1="107" y1="76" x2="114" y2="76"/>
+  </g>
+
+  <!-- voice waveform: the copilot -->
+  <g fill="url(#heatSoft)">
+    <rect x="67.5" y="106" width="5" height="12" rx="2.5"/>
+    <rect x="77.5" y="101" width="5" height="22" rx="2.5"/>
+    <rect x="87.5" y="97"  width="5" height="30" rx="2.5"/>
+    <rect x="97.5" y="101" width="5" height="22" rx="2.5"/>
+    <rect x="107.5" y="106" width="5" height="12" rx="2.5"/>
+  </g>
+
+  <!-- wordmark -->
+  <text class="wordmark fg" x="186" y="88" font-size="48" font-weight="700" letter-spacing="1">HEAT<tspan fill="url(#heat)">SAFE</tspan></text>
+  <text class="wordmark fg-mute" x="188" y="118" font-size="15" font-weight="500" letter-spacing="4.5">VOICE COPILOT</text>
+  <rect x="188" y="130" width="300" height="2" rx="1" fill="url(#heat)"/>
+  <text class="wordmark fg-mute" x="188" y="152" font-size="12" font-weight="400" letter-spacing="1.5">HANDS-FREE HEAT SAFETY FOR OUTDOOR WORKERS</text>
+</svg>
