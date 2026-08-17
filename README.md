@@ -83,6 +83,7 @@ Current focus:
 
 | Year | Event                                           | Project / Focus               | Result                    |
 | ---- | ----------------------------------------------- | ----------------------------- | ------------------------- |
+| 2026 | **Hackathon · Dubai**                           | HeatSafe Voice Copilot        | 🎉 Finalist               |
 | 2026 | **ETHGlobal Lisbon**                            | ColdProof                     | 🏆 Bounty Winner          |
 | 2026 | **ETHGlobal NYC**                               | HeyLola Foundation Web3 layer | 🏆 Bounty Winner          |
 | 2026 | **ETHGlobal Cannes**                            | Flow Broker                   | 🏆 2× Bounty Winner       |
@@ -94,6 +95,26 @@ Current focus:
 | 2020 | **EU Global Hackathon**                         | COVID edition                 | Participant               |
 | 2019 | **StartSud**                                    | Startup competition           | 🥇 Winner · Appointed CEO |
 | 2019 | **Demium Startups**                             | Founder competition           | 🥇 Individual Winner      |
+
+---
+
+## 🎯 HeatSafe Voice Copilot · Dubai 2026
+
+In **Dubai**, we built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
+
+The worker simply speaks to the agent while continuing the task, accessing live weather conditions, relevant safety information, and trusted guidance without having to stop, remove gloves, or search through a phone.
+
+We built the MVP using:
+
+* **ElevenLabs** for voice
+* **Context.dev (YC S26)** for live data and retrieval
+* **Devin by Cognition** for build support
+
+Where **ColdProof** connected physical-world data with digital infrastructure to protect the *product*, **HeatSafe** connects real-world conditions, live data, and AI directly with the *person* who needs that information, at the moment they need it.
+
+<br/>
+
+**Result:** 🎉 Finalist
 
 ---
 
@@ -163,6 +184,29 @@ We won two bounties:
 <br/>
 
 **Result:** 🏆 2× Bounty Winner
+
+---
+
+## 🎖️ Recognition & Nominations
+
+> Visibility matters. When the work of women in this industry is not visible, it can feel smaller than it actually is, even when the impact, experience, and results are very much there.
+
+| Date            | Recognition                                                                | Context                             |
+| --------------- | -------------------------------------------------------------------------- | ----------------------------------- |
+| **August 2026** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA81) | Second consecutive nomination       |
+| **August 2025** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA80) | First nomination                    |
+
+<br/>
+
+Being nominated for the **Women of Web3** session at the **United Nations Science Summit** for a second consecutive year is an honour, and it puts my name alongside many women who are building, leading, and contributing to the evolution of Web3 and emerging technologies.
+
+There is no shortage of talented women in technology. We are building companies, leading teams, investing, researching, creating communities, speaking on stages, and shaping some of the most important conversations in our industry. What is often missing is not talent, but amplification.
+
+That is why initiatives like this matter. Visibility brings opportunities, creates new connections, and makes it easier for other women to see that there is also a place for them in these rooms.
+
+Grateful to **Women of Web3**, the **Science Summit at the United Nations**, and everyone involved in making these spaces possible.
+
+`#WomenOfWeb3` · `#Web3` · `#EmergingTech` · `#WomenInTech` · `#ScienceSummit` · `#UNGA`
 
 ---
 
