@@ -4,9 +4,9 @@
 
 <br>
 
-<h1>SILVIA MOGAS</h1>
+<h2>SILVIA MOGAS</h2>
 
-<h3>WEB3 BUILDER · TRUST INFRASTRUCTURE · PRODUCT & VENTURE OPERATOR</h3>
+<h4>WEB3 BUILDER · TRUST INFRASTRUCTURE · PRODUCT & VENTURE OPERATOR</h4>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=2800&pause=1000&color=525252&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Founder+%C2%B7+Hackathon+Winner+%C2%B7+Venture+Builder;Building+trust+layers+for+the+real+world;Digital+identity+%C2%B7+On-chain+systems+%C2%B7+RWA;From+ambitious+idea+to+working+product" alt="Animated introduction">
 
