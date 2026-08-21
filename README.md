@@ -272,13 +272,18 @@ I am open to:
 
 <br><br>
 
-<a href="https://linkedin.com/in/silviamogas">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://bmbweb3.com">bmbweb3.com</a>
-&nbsp;·&nbsp;
-<a href="https://trustthesignal.media">trustthesignal.media</a>
-&nbsp;·&nbsp;
-<a href="mailto:hello@silviamogas.com">Email</a>
+<a href="https://linkedin.com/in/silviamogas">
+  <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://bmbweb3.com">
+  <img src="https://img.shields.io/badge/BMBWEB3.COM-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bmbweb3.com">
+</a>
+<a href="https://trustthesignal.media">
+  <img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-737373?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media">
+</a>
+<a href="mailto:hello@silviamogas.com">
+  <img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hello@silviamogas.com">
+</a>
 
 
 <br><br>
