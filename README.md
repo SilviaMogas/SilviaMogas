@@ -22,8 +22,8 @@ digital identity, on-chain systems, and emerging technology.
 <a href="https://linkedin.com/in/silviamogas">
   <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://bmbweb3.com">
-  <img src="https://img.shields.io/badge/BMBWEB3.COM-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bmbweb3.com">
+<a href="https://blockchainmarketingboutique.com">
+  <img src="https://img.shields.io/badge/BLOCKCHAINMARKETINGBOUTIQUE.COM-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="blockchainmarketingboutique.com">
 </a>
 <a href="https://trustthesignal.media">
   <img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-737373?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media">
@@ -275,8 +275,8 @@ I am open to:
 <a href="https://linkedin.com/in/silviamogas">
   <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://bmbweb3.com">
-  <img src="https://img.shields.io/badge/BMBWEB3.COM-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bmbweb3.com">
+<a href="https://blockchainmarketingboutique.com">
+  <img src="https://img.shields.io/badge/BLOCKCHAINMARKETINGBOUTIQUE.COM-404040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="blockchainmarketingboutique.com">
 </a>
 <a href="https://trustthesignal.media">
   <img src="https://img.shields.io/badge/TRUSTTHESIGNAL.MEDIA-737373?style=for-the-badge&logo=googlechrome&logoColor=white" alt="trustthesignal.media">
