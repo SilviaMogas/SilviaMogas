@@ -13,8 +13,13 @@
 <br>
 
 <p>
-<strong>Building products, narratives, and trust layers across</strong><br>
+<strong>Silvia builds products, narratives, and trust layers across</strong><br>
 digital identity, on-chain systems, and emerging technology.
+</p>
+
+<p>
+Founder, Web3 builder, and product operator with 20+ years across marketing, partnerships,<br>
+product, growth, and venture building — she turns ambitious ideas into working prototypes.
 </p>
 
 <br>
@@ -42,25 +47,25 @@ digital identity, on-chain systems, and emerging technology.
 
 <br/>
 
-## 🧭 About me
+## 🧭 About Silvia
 
 **Founder · Web3 Builder · Product Operator · Hackathon Winner**
 
-I build products and prototypes across **Web3, digital identity, trust infrastructure, consumer adoption, and real-world use cases**.
+Silvia builds products and prototypes across **Web3, digital identity, trust infrastructure, consumer adoption, and real-world use cases**.
 
-My background is both strategic and product-driven. I bring more than 20 years of experience across **marketing, partnerships, product, growth, events, commercial strategy, and venture building**.
+Her background is both strategic and product-driven. She brings more than 20 years of experience across **marketing, partnerships, product, growth, events, commercial strategy, and venture building**.
 
-This gives me a practical perspective when I build. I care about the user, the market, the narrative, and the infrastructure behind the product.
+That gives her a practical perspective when she builds. She cares about the user, the market, the narrative, and the infrastructure behind the product.
 
-In Web3, I focus on one central question:
+In Web3, she focuses on one central question:
 
 > **How do we make trust programmable, usable, and understandable?**
 
-I use hackathons and technical sprints to test ideas quickly, validate real use cases, and move from concept to working product.
+She uses hackathons and technical sprints to test ideas quickly, validate real use cases, and move from concept to working product.
 
 ---
 
-## 🛠️ What I build
+## 🛠️ What Silvia builds
 
 ```text
 Current focus:
@@ -77,9 +82,18 @@ Current focus:
 
 ---
 
+## 🧩 Ways to work with Silvia
+
+| | | |
+|---|---|---|
+| **🪪 Digital Identity & Trust**<br>Verifiable credentials, attestations, and reputation systems that make trust programmable.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Digital%20identity%20project) | **⛓️ Web3 Product Builds**<br>0→1 prototypes and MVPs shipped fast, with the right technical partners.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Web3%20product%20build) | **🌍 RWA & Institutional Adoption**<br>Bridging real-world assets and capital markets with on-chain infrastructure.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=RWA%20project) |
+| **🤝 Ecosystem & Venture Partnerships**<br>Go-to-market, narrative, and growth strategy for Web3 teams and venture studios.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Partnership) | **🏆 Hackathon Collaboration**<br>A proven track record of shipping working prototypes under pressure, solo or as a team.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Hackathon%20collaboration) | **🎤 Speaking & Advisory**<br>Talks and advisory on digital identity, trust infrastructure, and Web3 consumer adoption.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Speaking%20or%20advisory) |
+
+---
+
 ## 🏆 Hackathon Track Record
 
-> Hackathons are where I test ideas, build fast, collaborate, and turn abstract concepts into working prototypes.
+> Hackathons are where Silvia tests ideas, builds fast, collaborates, and turns abstract concepts into working prototypes.
 
 | Year | Event                                           | Project / Focus               | Result                    |
 | ---- | ----------------------------------------------- | ----------------------------- | ------------------------- |
@@ -108,11 +122,11 @@ Current focus:
 
 <br/>
 
-At an **AI hackathon in Dubai**, we built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
+At an **AI hackathon in Dubai**, Silvia and her team built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
 
 The worker simply speaks to the agent while continuing the task, accessing live weather conditions, relevant safety information, and trusted guidance without having to stop, remove gloves, or search through a phone.
 
-We built the MVP using:
+The team built the MVP using:
 
 * **ElevenLabs** for voice
 * **Context.dev (YC S26)** for live data and retrieval
@@ -128,13 +142,13 @@ Where **ColdProof** connected physical-world data with digital infrastructure to
 
 ## 🎯 ETHGlobal Lisbon 2026
 
-At **ETHGlobal Lisbon 2026**, we built **ColdProof**, a cold-chain verification and reputation system connecting physical sensor data with on-chain infrastructure.
+At **ETHGlobal Lisbon 2026**, Silvia and her team built **ColdProof**, a cold-chain verification and reputation system connecting physical sensor data with on-chain infrastructure.
 
-We developed a working hardware prototype that captured temperature data and transformed it into verifiable shipment records.
+They developed a working hardware prototype that captured temperature data and transformed it into verifiable shipment records.
 
 The project explored how blockchain infrastructure could improve transparency, accountability, and trust across temperature-sensitive supply chains.
 
-We used:
+The team used:
 
 * **Hedera** to register and verify cold-chain events
 * **ENS** to create portable identities for transporters
@@ -154,13 +168,13 @@ The prototype connected physical infrastructure with on-chain verification and t
 
 ## 🎯 ETHGlobal NYC 2026
 
-At **ETHGlobal NYC 2026**, I built a new Web3 layer for **HeyLola Foundation** as a solo hacker.
+At **ETHGlobal NYC 2026**, Silvia built a new Web3 layer for **HeyLola Foundation** as a solo hacker.
 
 The project focused on making crypto donations more accessible, transparent, and emotionally connected.
 
-I explored how blockchain tools could help people sponsor shelter dogs, increase adoption visibility, and create more trusted donation flows.
+She explored how blockchain tools could help people sponsor shelter dogs, increase adoption visibility, and create more trusted donation flows.
 
-For this MVP, I used:
+For this MVP, she used:
 
 * **Chainlink**
 * **Privy**
@@ -176,15 +190,15 @@ The prototype connected social impact with crypto-native donation and sponsorshi
 
 ## 🎯 ETHGlobal Cannes 2026
 
-At **ETHGlobal Cannes 2026**, we built **Flow Broker**, an on-chain workflow automation and execution prototype.
+At **ETHGlobal Cannes 2026**, Silvia and her team built **Flow Broker**, an on-chain workflow automation and execution prototype.
 
-We explored how decentralized infrastructure and programmable workflows could make complex financial operations more coordinated, accessible, and efficient.
+They explored how decentralized infrastructure and programmable workflows could make complex financial operations more coordinated, accessible, and efficient.
 
 The project combined automation, blockchain infrastructure, and on-chain execution tools to create smarter transaction flows.
 
 <br/>
 
-We won two bounties:
+The team won two bounties:
 
 * **Best Uniswap API Integration**
 * **Best Workflow with Chainlink CRE**
@@ -206,19 +220,19 @@ We won two bounties:
 
 <br/>
 
-Being nominated for the **Women of Web3** session at the **United Nations Science Summit** for a second consecutive year is an honour, and it puts my name alongside many women who are building, leading, and contributing to the evolution of Web3 and emerging technologies.
+Being nominated for the **Women of Web3** session at the **United Nations Science Summit** for a second consecutive year is an honour for Silvia, placing her name alongside many women who are building, leading, and contributing to the evolution of Web3 and emerging technologies.
 
-There is no shortage of talented women in technology. We are building companies, leading teams, investing, researching, creating communities, speaking on stages, and shaping some of the most important conversations in our industry. What is often missing is not talent, but amplification.
+There is no shortage of talented women in technology. They are building companies, leading teams, investing, researching, creating communities, speaking on stages, and shaping some of the most important conversations in the industry. What is often missing is not talent, but amplification.
 
 That is why initiatives like this matter. Visibility brings opportunities, creates new connections, and makes it easier for other women to see that there is also a place for them in these rooms.
 
-Grateful to **Women of Web3**, the **Science Summit at the United Nations**, and everyone involved in making these spaces possible.
+Silvia is grateful to **Women of Web3**, the **Science Summit at the United Nations**, and everyone involved in making these spaces possible.
 
 `#WomenOfWeb3` · `#Web3` · `#EmergingTech` · `#WomenInTech` · `#ScienceSummit` · `#UNGA`
 
 ---
 
-## 🔐 Areas I am exploring
+## 🔐 Areas Silvia is exploring
 
 ```text
 Research and build interests:
@@ -241,7 +255,7 @@ Research and build interests:
 
 ## 🤝 Let’s build
 
-I am open to:
+Silvia is open to:
 
 * Hackathon collaborations
 * Web3 product experiments
