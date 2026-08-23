@@ -59,7 +59,7 @@ That gives her a practical perspective when she builds. She cares about the user
 
 In Web3, she focuses on one central question:
 
-> **How do we make trust programmable, usable, and understandable?**
+> **How to make trust programmable, usable, and understandable?**
 
 She uses hackathons and technical sprints to test ideas quickly, validate real use cases, and move from concept to working product.
 
