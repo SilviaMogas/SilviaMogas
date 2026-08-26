@@ -217,6 +217,7 @@ The team won two bounties:
 | --------------- | -------------------------------------------------------------------------- | ----------------------------------- |
 | **August 2026** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA81) | Second consecutive nomination       |
 | **August 2025** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA80) | First nomination                    |
+| **2023**         | **Becas Closing The Gap · Awardee** — 6ª edición                          | Scholarship recipient               |
 
 <br/>
 
