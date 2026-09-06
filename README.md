@@ -91,6 +91,16 @@ Current focus:
 
 ---
 
+## 🎤 Speaking Engagements
+
+| Date | Event | Role | Location |
+| ---- | ----- | ---- | -------- |
+| **8 September 2026** | **IPS Deep Dive:** *"Technology, AI & Institutional Investment Operations"* | Moderator | UAE |
+| **UNGA81** | 🇺🇳 **Science Summit at the United Nations** | Speaker | United Nations, US |
+| **22 October 2026** | **AINext Awards & Conference** — Where Artificial Intelligence Meets Global Innovation | Speaker | 📍 Dubai, UAE |
+
+---
+
 ## 🏆 Hackathon Track Record
 
 > Hackathons are where Silvia tests ideas, builds fast, collaborates, and turns abstract concepts into working prototypes.
