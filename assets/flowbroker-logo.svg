@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180" role="img" aria-label="Flow Broker logo">
+  <title>Flow Broker</title>
+
+  <defs>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="55%" stop-color="#7C6FFF"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="flowSoft" gradientUnits="userSpaceOnUse" x1="90" y1="132" x2="90" y2="48">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .fg      { fill: #171717; }
+    .fg-mute { fill: #525252; }
+    @media (prefers-color-scheme: dark) {
+      .fg      { fill: #F5F5F5; }
+      .fg-mute { fill: #A3A3A3; }
+    }
+    .wordmark { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+
+  <!-- shield -->
+  <path d="M90 30 L140 49 V97 C140 126 117 145 90 154 C63 145 40 126 40 97 V49 Z"
+        fill="none" stroke="url(#flow)" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- workflow nodes: automated on-chain execution -->
+  <g stroke="url(#flowSoft)" stroke-width="4" stroke-linecap="round">
+    <line x1="64" y1="100" x2="90" y2="68"/>
+    <line x1="90" y1="68" x2="116" y2="100"/>
+  </g>
+  <circle cx="64" cy="100" r="8" fill="url(#flowSoft)"/>
+  <circle cx="90" cy="68" r="9" fill="url(#flowSoft)"/>
+  <circle cx="116" cy="100" r="8" fill="url(#flowSoft)"/>
+
+  <!-- wordmark -->
+  <text class="wordmark fg" x="186" y="88" font-size="48" font-weight="700" letter-spacing="1">FLOW<tspan fill="url(#flow)">BROKER</tspan></text>
+  <text class="wordmark fg-mute" x="188" y="118" font-size="15" font-weight="500" letter-spacing="4.5">WORKFLOW AUTOMATION</text>
+  <rect x="188" y="130" width="300" height="2" rx="1" fill="url(#flow)"/>
+  <text class="wordmark fg-mute" x="188" y="152" font-size="12" font-weight="400" letter-spacing="1.5">ON-CHAIN EXECUTION FOR COMPLEX WORKFLOWS</text>
+</svg>
