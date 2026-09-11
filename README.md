@@ -152,6 +152,14 @@ Where **ColdProof** connected physical-world data with digital infrastructure to
 
 ## 🎯 ETHGlobal Lisbon 2026
 
+<div align="center">
+
+<img src="assets/coldproof-logo.svg" width="440" alt="ColdProof">
+
+</div>
+
+<br/>
+
 At **ETHGlobal Lisbon 2026**, Silvia and her team built **ColdProof**, a cold-chain verification and reputation system connecting physical sensor data with on-chain infrastructure.
 
 They developed a working hardware prototype that captured temperature data and transformed it into verifiable shipment records.
@@ -178,6 +186,14 @@ The prototype connected physical infrastructure with on-chain verification and t
 
 ## 🎯 ETHGlobal NYC 2026
 
+<div align="center">
+
+<img src="assets/heylola-logo.svg" width="440" alt="HeyLola Web3 Layer">
+
+</div>
+
+<br/>
+
 At **ETHGlobal NYC 2026**, Silvia built a new Web3 layer for **HeyLola Foundation** as a solo hacker.
 
 The project focused on making crypto donations more accessible, transparent, and emotionally connected.
@@ -199,6 +215,14 @@ The prototype connected social impact with crypto-native donation and sponsorshi
 ---
 
 ## 🎯 ETHGlobal Cannes 2026
+
+<div align="center">
+
+<img src="assets/flowbroker-logo.svg" width="440" alt="Flow Broker">
+
+</div>
+
+<br/>
 
 At **ETHGlobal Cannes 2026**, Silvia and her team built **Flow Broker**, an on-chain workflow automation and execution prototype.
 
