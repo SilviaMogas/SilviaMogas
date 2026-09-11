@@ -219,31 +219,6 @@ The team won two bounties:
 
 ---
 
-## 🎖️ Recognition & Nominations
-
-> Visibility matters. When the work of women in this industry is not visible, it can feel smaller than it actually is, even when the impact, experience, and results are very much there.
-
-| Date            | Recognition                                                                | Context                             |
-| --------------- | -------------------------------------------------------------------------- | ----------------------------------- |
-| **August 2026** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA81) | Second consecutive nomination       |
-| **August 2025** | **Women of Web3 · Nominee** — Science Summit at the United Nations (UNGA80) | First nomination                    |
-| **2025**         | **Top 25 Finance in Web3 · 2025**                                          | Recognized list                     |
-| **2023**         | **Becas Closing The Gap · Awardee** — 6ª edición                          | Scholarship recipient               |
-
-<br/>
-
-Being nominated for the **Women of Web3** session at the **United Nations Science Summit** for a second consecutive year is an honour for Silvia, placing her name alongside many women who are building, leading, and contributing to the evolution of Web3 and emerging technologies.
-
-There is no shortage of talented women in technology. They are building companies, leading teams, investing, researching, creating communities, speaking on stages, and shaping some of the most important conversations in the industry. What is often missing is not talent, but amplification.
-
-That is why initiatives like this matter. Visibility brings opportunities, creates new connections, and makes it easier for other women to see that there is also a place for them in these rooms.
-
-Silvia is grateful to **Women of Web3**, the **Science Summit at the United Nations**, and everyone involved in making these spaces possible.
-
-`#WomenOfWeb3` · `#Web3` · `#EmergingTech` · `#WomenInTech` · `#ScienceSummit` · `#UNGA`
-
----
-
 ## 🔐 Areas Silvia is exploring
 
 ```text
