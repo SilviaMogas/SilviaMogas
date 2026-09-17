@@ -91,16 +91,6 @@ Current focus:
 
 ---
 
-## 🎤 Speaking Engagements
-
-| Date | Event | Role | Location |
-| ---- | ----- | ---- | -------- |
-| **8 September 2026** | **IPS Deep Dive:** *"Technology, AI & Institutional Investment Operations"* | Moderator | UAE |
-| **UNGA81** | 🇺🇳 **Science Summit at the United Nations** | Speaker | United Nations, US |
-| **22 October 2026** | **AINext Awards & Conference** — Where Artificial Intelligence Meets Global Innovation | Speaker | 📍 Dubai, UAE |
-
----
-
 ## 🏆 Hackathon Track Record
 
 > Hackathons are where Silvia tests ideas, builds fast, collaborates, and turns abstract concepts into working prototypes.
@@ -124,14 +114,6 @@ Current focus:
 
 ## 🎯 HeatSafe Voice Copilot · Dubai 2026
 
-<div align="center">
-
-<img src="assets/heatsafe-logo.svg" width="440" alt="HeatSafe Voice Copilot">
-
-</div>
-
-<br/>
-
 At an **AI hackathon in Dubai**, Silvia and her team built **HeatSafe Voice Copilot**, a hands-free AI voice assistant for construction and outdoor workers exposed to extreme heat.
 
 The worker simply speaks to the agent while continuing the task, accessing live weather conditions, relevant safety information, and trusted guidance without having to stop, remove gloves, or search through a phone.
@@ -151,14 +133,6 @@ Where **ColdProof** connected physical-world data with digital infrastructure to
 ---
 
 ## 🎯 ETHGlobal Lisbon 2026
-
-<div align="center">
-
-<img src="assets/coldproof-logo.svg" width="440" alt="ColdProof">
-
-</div>
-
-<br/>
 
 At **ETHGlobal Lisbon 2026**, Silvia and her team built **ColdProof**, a cold-chain verification and reputation system connecting physical sensor data with on-chain infrastructure.
 
@@ -186,14 +160,6 @@ The prototype connected physical infrastructure with on-chain verification and t
 
 ## 🎯 ETHGlobal NYC 2026
 
-<div align="center">
-
-<img src="assets/heylola-logo.svg" width="440" alt="HeyLola Web3 Layer">
-
-</div>
-
-<br/>
-
 At **ETHGlobal NYC 2026**, Silvia built a new Web3 layer for **HeyLola Foundation** as a solo hacker.
 
 The project focused on making crypto donations more accessible, transparent, and emotionally connected.
@@ -215,14 +181,6 @@ The prototype connected social impact with crypto-native donation and sponsorshi
 ---
 
 ## 🎯 ETHGlobal Cannes 2026
-
-<div align="center">
-
-<img src="assets/flowbroker-logo.svg" width="440" alt="Flow Broker">
-
-</div>
-
-<br/>
 
 At **ETHGlobal Cannes 2026**, Silvia and her team built **Flow Broker**, an on-chain workflow automation and execution prototype.
 
