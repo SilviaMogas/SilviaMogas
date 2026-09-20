@@ -87,7 +87,7 @@ Current focus:
 | | | |
 |---|---|---|
 | **🪪 Digital Identity & Trust**<br>Verifiable credentials, attestations, and reputation systems that make trust programmable.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Digital%20identity%20project) | **⛓️ Web3 Product Builds**<br>0→1 prototypes and MVPs shipped fast, with the right technical partners.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Web3%20product%20build) | **🌍 RWA & Institutional Adoption**<br>Bridging real-world assets and capital markets with on-chain infrastructure.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=RWA%20project) |
-| **🤝 Ecosystem & Venture Partnerships**<br>Go-to-market, narrative, and growth strategy for Web3 teams and venture studios.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Partnership) | **🏆 Hackathon Collaboration**<br>A proven track record of shipping working prototypes under pressure, solo or as a team.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Hackathon%20collaboration) | **🎤 Speaking & Advisory**<br>Talks and advisory on digital identity, trust infrastructure, and Web3 consumer adoption.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Speaking%20or%20advisory) |
+| **🤝 Ecosystem & Venture Partnerships**<br>Go-to-market, narrative, and growth strategy for Web3 teams and venture studios.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Partnership) | **🏆 Hackathon Collaboration**<br>A proven track record of shipping working prototypes under pressure, solo or as a team.<br>[`→ start a conversation`](mailto:hello@silviamogas.com?subject=Hackathon%20collaboration) | |
 
 ---
 
